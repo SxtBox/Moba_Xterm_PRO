@@ -2,12 +2,15 @@
 
     SSH,FTP + More Network Tools
 
-    https://tools.kodi.al/SSH_Network_Tools/MobaXterm/
+    Kodi: https://tools.kodi.al/SSH_Network_Tools/MobaXterm/
+    Mega: https://mega.nz/folder/zSxSVRzR#XSB0M6pPCSb_BhSmgj_AdQ
     
     Contain These Versions
     11.1 PRO
     20.2 PRO
     21.0 PRO
+    21.5 PRO
+    22.1 PRO
     And Plugins Tutorial
 
 # Plugins
